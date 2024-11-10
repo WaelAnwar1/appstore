@@ -1,0 +1,3 @@
+<footer>
+    Appstore Footer
+</footer>
